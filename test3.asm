@@ -1,5 +1,6 @@
 ; Link Library Test	#3	(TestLib3.asm)
 ; Calculate the elapsed execution time of a nested loop
+;Time Elapsed 00:00:03.71
 
 include Irvine32.inc
 
